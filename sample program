@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample HTML Page</title>
+</head>
+<body>
+
+    <!-- Header -->
+    <h1 align="center">Welcome to My Web Page</h1>
+    <h3 align="center">HTML Tags Demonstration</h3>
+
+    <!-- Paragraph -->
+    <p>
+        HTML is a <b>markup language</b> used to create web pages.
+        It helps structure content using <i>tags</i>.
+    </p>
+
+    <!-- Text Formatting -->
+    <p>
+        This text is <strong>strong</strong>,
+        <em>emphasized</em>,
+        <u>underlined</u>,
+        and <mark>highlighted</mark>.
+    </p>
+
+    <!-- Division -->
+    <div style="background-color: lightgray; padding: 10px;">
+        <h2>About HTML</h2>
+        <p>
+            HTML stands for <b>HyperText Markup Language</b>.
+        </p>
+    </div>
+
+    <!-- Alignment -->
+    <p align="right">This paragraph is right aligned.</p>
+    <p align="center">This paragraph is center aligned.</p>
+
+    <!-- Lists -->
+    <h2>Types of Lists</h2>
+
+    <!-- Unordered List -->
+    <h3>Unordered List</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <!-- Ordered List -->
+    <h3>Ordered List</h3>
+    <ol>
+        <li>Create HTML file</li>
+        <li>Write code</li>
+        <li>Run in browser</li>
+    </ol>
+
+    <!-- Hyperlink -->
+    <h2>Hyperlink Example</h2>
+    <p>
+        Visit <a href="https://www.google.com" target="_blank">Google</a>
+        for more information.
+    </p>
+
+    <!-- Footer -->
+    <p align="center">
+        <small>© 2026 My Sample Web Page</small>
+    </p>
+
+</body>
+</html>
