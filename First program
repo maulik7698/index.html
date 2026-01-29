@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY first page</title>
+</head>
+<body>
+    <h1 align="center">My First Page</h1>
+    <div>
+    
+    <p><b><u>List of studen name :</u></b> </p>
+    
+</div>
+    <ol type ="1">
+    <li>Maulik</li>
+    <li>meet</li>
+    <li>mihir</li>
+    <li>Meer</li>
+    <li>Rakshit</li>
+    <li>Harmya</li>
+
+    </ol>
+    <ul type ="clisc">
+
+        <li>  <p>H<sub>2</sub>O (subscript)</p></li>
+        <img src = "https://media.istockphoto.com/id/1392386164/photo/3d-model-of-water-molecule.jpg?s=612x612&w=0&k=20&c=ve5DdR2R3lG--XBbmxh5J4_mAEaLkm_EKRA-FwgCUAc="height ="200">
+          <li>  <p>x<sup>2</sup> 1 TO 20 square</p> 
+        <img src  = "https://www.shutterstock.com/shutterstock/photos/2342853137/display_1500/stock-vector-square-formula-table-square-of-to-vector-illustration-2342853137.jpg"height="200"></li>
+    </ul>
+    <p>Link of google website 
+        <a href="https://www.google.com/">visit google</a>
+    </p>
+</body>
+</html>
